@@ -2,6 +2,5 @@
 /*css reads from top to bottom and prioritizes in this order */
 * {
 	font-family: 'Roboto', sans-serif;
-	color: #ff0000; /*add pound sign before color hex*/
-	
+	/*color: #ff0000; add pound sign before color hex*/
 }
