@@ -41,7 +41,7 @@ footer	{
 }
 
 .dashboard-thumbnail {
-	display: inline-block;
+	/*display: inline-block;*/
 	width: 40%; /*percent is more responsive than px*/
 	height: 100px;
 }
@@ -141,5 +141,5 @@ main {
 #btn-publish, 
 #btn-upload,
 #btn-browse	{
-	float: right;
+float: right;
 }
