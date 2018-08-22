@@ -100,3 +100,46 @@ footer	{
 .btn-green {
 	background-color: #4CAF50;
 }
+
+#btn-browse {
+	margin-left: 20px; /*declaration block ang tawag dito*/
+}
+
+.hide-overflow {
+	overflow: hidden;
+}
+
+.img-set {
+	height: 70px;
+	width: 100px;
+	background-color: white;
+	padding: 5px;
+	/*margin: 50px;*/
+	border-radius: 5px;
+	margin: 0 5px; /*0 is top and botton parameter whilte 5 is l & r */
+}
+
+.img-set-holder	{
+	text-align: center; /*bad practice! use margin: 0 auto;*/
+}
+
+.inline-blocked {
+	display: inline-block; /*get properties of in-line elements*/
+}
+
+.dashboard-text {
+	margin: 0;
+	font-size: 24px;
+	width: 100%;
+	text-align: center;
+}
+
+main {
+	padding: 20px;
+}
+
+#btn-publish, 
+#btn-upload,
+#btn-browse	{
+	float: right;
+}
